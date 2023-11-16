@@ -47,12 +47,12 @@
 }
 
 .menu_link {
-    color: #fff;
+    color: #ffffff;
 }
 
 
 .active:hover {
-    background-color: #fff;
+    background-color: #ffffff;
     transition: 0.7s;
 }
 
@@ -70,7 +70,7 @@
 
 .header_content-info {
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 }
 
 .header_content_title {
@@ -110,7 +110,7 @@
 
 .card {
     padding: 15px;
-    background-color: #fff;
+    background-color: #ffffff;
     border-radius: 6px;
     text-align: center;
 }
@@ -163,7 +163,7 @@
 
 .name_input,
 .message_input {
-    background-color: #fff;
+    background-color: #ffffff;
     border-radius: 6px;
     border-style: none;
     font-weight: 400;
@@ -206,7 +206,7 @@
 
 .submit_btn:hover {
     cursor: pointer;
-    background-color: #fff;
+    background-color: #ffffff;
     color: #544294;
     border: 1px solid #544294;
 }
@@ -224,7 +224,7 @@
 }
 
 .footer_list-links {
-    color: #fff;
+    color: #ffffff;
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
@@ -252,7 +252,7 @@
 .burger_menu>div {
     width: 25px;
     height: 2px;
-    background-color: #fff;
+    background-color: #ffffff;
     border-radius: 200px;
 }
 
